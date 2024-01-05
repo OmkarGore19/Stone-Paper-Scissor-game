@@ -1,3 +1,5 @@
+Github Pages Link : https://omkargore19.github.io/Stone-Paper-Scissor-game/
+
 Following are the sceenshots of the project : 
 
 ![Screenshot (221)](https://github.com/OmkarGore19/Stone--Paper--Scissor-game/assets/99486766/f406459e-bb25-4cb9-8729-152d6b93767d)
